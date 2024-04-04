@@ -63,7 +63,6 @@
                     }
                 }
             }
-
             public void TopTable(string tag)
             {
                 string[] lines = File.ReadAllLines(pathTable);
